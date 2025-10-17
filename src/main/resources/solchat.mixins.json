@@ -1,0 +1,8 @@
+{
+  "package": "dev.alinco8.solchat.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "solchat.refmap.json",
+  "mixins": [
+    "DirectMessageMixin"
+  ]
+}
